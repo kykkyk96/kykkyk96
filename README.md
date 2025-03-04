@@ -41,4 +41,9 @@
   Project
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
 </h1>
-<a align="center" href="https://github.com/kykkyk96/animal_withMap">반려동물동반 추천 사이트</a>
+<div align="center">
+  1.<a href="https://github.com/kykkyk96/animal_withMap">반려동물동반 추천 사이트</a>
+  2.<a href="https://github.com/kykkyk96/gym_reservation_project">문화체육센터 예약시스템</a>
+  3.<a href="https://github.com/kykkyk96/jutopia">전통주 추천 & 구매 사이트</a>
+</div>
+
