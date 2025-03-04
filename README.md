@@ -47,3 +47,5 @@
   3.<a href="https://github.com/kykkyk96/jutopia">전통주 추천 & 구매 사이트</a><br>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kykkyk96&layout=compact)
+
