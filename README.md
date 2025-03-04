@@ -48,8 +48,10 @@
 </div>
 <br>
 <br>
+
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kykkyk96&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kykkyk96&layout=compact)
 </div>
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 
